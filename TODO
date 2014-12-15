@@ -1,0 +1,4 @@
+ - Provide an easy way to extend rule sets
+ - Add support for targets other than build/watch
+ - Standardize target creation
+ - Enrich rule selection/compilation

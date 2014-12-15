@@ -1,0 +1,21 @@
+{
+  "name": "lazy-gulp",
+  "version": "1.0.3",
+  "description": "A declarative way of defining gulp tasks",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git@github.com/rvaiya/lazy-gulp"
+  },
+  "author": "",
+  "license": "GPL",
+  "dependencies": {
+    "gulp": "^3.8.10",
+    "gulp-watch": "^3.0.0",
+    "through2": "^0.6.3",
+    "vinyl-utils": "^1.0.6"
+  }
+}
